@@ -52,7 +52,7 @@ def main():
 
             elif(x==4):
                 
-                category=input('Ingrese La categoria del Producto a eliminar, Tornilleria, Accesorios Bathrooms, Herramientas para Hogar: ')
+                category=input('Ingrese La categoria del Producto a visualizar, Tornilleria, Accesorios Bathrooms, Herramientas para Hogar: ')
 
                 id_product=input('Indique el codigo de su producto: ')
 
